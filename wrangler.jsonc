@@ -6,7 +6,7 @@
     "enabled": true
   },
   "assets": {
-    "directory": "my-website"
+    "directory": "wonderful"
   },
   "compatibility_flags": [
     "nodejs_compat"
